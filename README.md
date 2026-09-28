@@ -51,8 +51,8 @@ edge-router-01:edge-router-01.example.net:junos
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Noowan/GenerateOxidizedRouterDBfromZabbixAPI.git
-cd GenerateOxidizedRouterDBfromZabbixAPI/
+git clone https://github.com/Noowan/zabbix-to-oxidized.git
+cd zabbix-to-oxidized/
 ```
 ### 2. Create and activate a virtual environment
 ```bash
